@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34714
     wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40789#Winter.-Tage.
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-09-18'
 gutenberg_type: Text
